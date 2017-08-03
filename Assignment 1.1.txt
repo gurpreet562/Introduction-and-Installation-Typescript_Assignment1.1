@@ -1,0 +1,17 @@
+          Assignment 1.1: Installing node js and npm
+
+Installing nodeJs:
+
+1. Navigate to the URL: https://nodejs.org/en/ and download the desired version you want to install in your system.
+
+2. Install the nodeJs into the system.
+
+3. Then Open the Command Prompt to check whether nodeJs is installed properly in the system or not.
+
+4. Run the Command: node --version.
+
+5.  If nodeJs is properly installed the version of the nodeJs will be shown at the command prompt after running the above command.
+
+6. Then check for the installation of npm by running the command npm --version.
+
+7.  After running the command the version of the npm will be displayed.
